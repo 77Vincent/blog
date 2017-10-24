@@ -2,5 +2,5 @@
 
 ## 编程心得
 
-#### [实践心得-Javascript](https://github.com/77Vincent/blog/issues/1)
-#### [实践心得-Sass](https://github.com/77Vincent/blog/issues/2)
+#### [Javascript](https://github.com/77Vincent/blog/issues/1)
+#### [Sass/CSS](https://github.com/77Vincent/blog/issues/2)
