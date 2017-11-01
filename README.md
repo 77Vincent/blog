@@ -1,6 +1,3 @@
 # 个人博客
 
-## 心得篇
-
-#### [Javascript](https://github.com/77Vincent/blog/issues/1)
-#### [Sass/CSS](https://github.com/77Vincent/blog/issues/2)
+阅读请移步: https://77vincent.github.io/
