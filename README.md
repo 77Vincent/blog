@@ -8,6 +8,7 @@
 - [Linux-学习笔记](https://github.com/77Vincent/blog/issues/9)
 - [HTTP-学习笔记](https://github.com/77Vincent/blog/issues/7)
 - [How Angular beats me](https://github.com/77Vincent/blog/issues/15)
+- [Unit test in Angular](https://github.com/77Vincent/blog/issues/4)
 
 ### Non-tech
 - [Computer Science Graduate Programs in US](https://github.com/77Vincent/blog/issues/12)
