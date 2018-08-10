@@ -1,4 +1,4 @@
-# 博客
+# Blog
 
 ### Tech stuff
 - [Javascript-学习笔记](https://github.com/77Vincent/blog/issues/1)
