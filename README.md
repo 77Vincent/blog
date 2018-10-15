@@ -3,7 +3,7 @@
 ### Basics series
 - [Javascript-Basics](https://github.com/77Vincent/blog/issues/1)
 - [NodeJS-Basics](https://github.com/77Vincent/blog/issues/10)
-- [Git-Basics](https://github.com/77Vincent/blog/issues/16)
+- [Git-Basics](https://github.com/77Vincent/blog/issues/6)
 
 ### How series
 - [How "this" works in Javascript](https://github.com/77Vincent/blog/issues/16)
