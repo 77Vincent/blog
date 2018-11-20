@@ -10,6 +10,7 @@
 - [How Angular beats me](https://github.com/77Vincent/blog/issues/15)
 - [How to do unit test in Angular](https://github.com/77Vincent/blog/issues/4)
 - [How to solve these problems](https://github.com/77Vincent/blog/issues/11)
+- [How to implement deep clone in Javascript](https://github.com/77Vincent/blog/issues/7)
 
 ### Handbook series
 - [SASS-Handbook](https://github.com/77Vincent/blog/issues/2)
